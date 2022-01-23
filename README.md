@@ -1,4 +1,4 @@
-# json: a package to handle json (read and write).
+# json: a package to handle json (read and write) for OpenComputers Minecraft Mod.
 
 TAKEN From JSON4Lua, originally written for Lua 5.1.
 
